@@ -12,4 +12,4 @@ class Solution(object):
             pasq = arr
             rowIndex -= 1
         
-        return pasq 
+        return pasq
