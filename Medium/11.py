@@ -11,4 +11,4 @@ class Solution(object):
             else:
                 right -= 1
         
-        return area
+        return area 
